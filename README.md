@@ -9,6 +9,7 @@ Vienvenido al juego del Amigo secreto.
 <br>
 <hr>
     - Por otro lado, tenga en cuenta que no podra hacer click en el boton "Añadir" si la casilla no tiene nada escrito dentro.
+<br>
     - Tampoco podras hacer click en el boton "Sortear Nombre" si no introduciste algun nombre anteriormente
 <hr>
 <img src="video/error.gif" alt="Video de errores">
